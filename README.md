@@ -36,6 +36,6 @@ This repository contains Python scripts for data analysis using the Pandas libra
 ## Changelog 
 1. Fixed minor typos
 2. Reuploaded PA3 file due to code errors and typos
-3. Fixed minor issue regarding the output in camaro's output
+3. Fixed minor issue regarding the output in camaro's cylinder
    
    
