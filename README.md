@@ -5,7 +5,7 @@ This repository contains Python scripts for data analysis using the Pandas libra
 
 
 ## Task
-1. **`Problem 1**
+1. **Problem 1**
    - **Purpose**: Loads a CSV file into a DataFrame and displays the first five and last five rows.
    - **Instructions**: 
      - Load the `cars.csv` file into a DataFrame named `cars`.
@@ -32,3 +32,6 @@ This repository contains Python scripts for data analysis using the Pandas libra
 **Section: 2ECE-A**
 
 **GitHub Username**: Ckyle30 
+
+## Changelog 
+1. Fixed minor typos
